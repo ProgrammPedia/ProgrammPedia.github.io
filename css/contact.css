@@ -1,0 +1,56 @@
+form {
+	width: 450px;
+	margin: auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+}
+
+#h2-contact {
+	color: #fff;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px;
+	font-family: monospace;
+}
+
+input, textarea {
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: none;
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+#btn-send {
+	background: #31384a;
+	color: #fff;
+	padding: 20px;
+}
+
+#btn-send:hover {
+	cursor: pointer;
+}
+
+@media (max-width: 480px) {
+	form{
+		width: 100%;
+	}
+}
+
+#thanks {
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+	background: rgba(0,0,0,0.4);
+	margin-top: 20px;
+}
