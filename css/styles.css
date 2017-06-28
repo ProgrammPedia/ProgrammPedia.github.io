@@ -33,7 +33,7 @@ body {
 	background-attachment: fixed;
 }
 
-.caption-nav > header {
+caption > header {
         background: #A8CBCD;
         width: 100%;
         height: 58px;
