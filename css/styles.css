@@ -119,6 +119,7 @@ table {
 	background: #fff;
 	color: #000;
 	text-decoration: none;
+	float: right;
 	padding: 5px;
 	text-align: right;
 	border-radius: 21px 21px 21px 21px;
