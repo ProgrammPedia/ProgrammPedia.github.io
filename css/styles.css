@@ -1,29 +1,29 @@
 * {
 	padding: 0;
-             margin: 0;
+        margin: 0;
 }
  
 nav {
-             overflow: hidden;
+        overflow: hidden;
 }
  
 nav li {
 	float: left;
 	display: inline-block;
-             font-family: Arial, sans-serif;
-             font-size: 16px;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
 }
  
 nav li a {
 	display: block;
-             padding: 20px;
-             color: #fff;
-             text-decoration: none;
+        padding: 20px;
+        color: #fff;
+        text-decoration: none;
 }
  
 nav li:hover {
-             background: #378fd9;
-             cursor: pointer;
+         background: #378fd9;
+         cursor: pointer;
 }
 
 body {
@@ -34,11 +34,11 @@ body {
 }
 
 .caption-nav > header {
-             background: #A8CBCD;
-             width: 100%;
-             height: 58px;
-             position: fixed;
-             z-index: 1000;
+        background: #A8CBCD;
+        width: 100%;
+        height: 58px;
+        position: fixed;
+        z-index: 1000;
 }
 
 table {
@@ -52,10 +52,10 @@ table {
 
 .th-nav {
 	background: #A8CBCD;
-             width: 100%;
-             height: 58px;
-             position: fixed;
-             z-index: 1000;
+        width: 100%;
+        height: 58px;
+        position: fixed;
+        z-index: 1000;
 }
 
 .description {
@@ -69,14 +69,14 @@ table {
 	border-color: #fff;
 	z-index: 2;
 	border-radius: 3px 3px 3px 3px;
-             -moz-border-radius: 3px 3px 3px 3px;
-             -webkit-border-radius: 3px 3px 3px 3px;
-             border: 5px solid #e7e7e7;
-             -webkit-transition: all 2s ease;
-             -moz-transition: all 2s ease;
-             -ms-transition: all 2s ease;
-             -o-transition: all 2s ease;
-             transition: all 2s ease;
+        -moz-border-radius: 3px 3px 3px 3px;
+        -webkit-border-radius: 3px 3px 3px 3px;
+        border: 5px solid #e7e7e7;
+        -webkit-transition: all 2s ease;
+        -moz-transition: all 2s ease;
+        -ms-transition: all 2s ease;
+        -o-transition: all 2s ease;
+        transition: all 2s ease;
 }
 
 .description-title {
@@ -100,14 +100,14 @@ table {
 	border-color: #fff;
 	z-index: 2;
 	border-radius: 3px 3px 3px 3px;
-             -moz-border-radius: 3px 3px 3px 3px;
-             -webkit-border-radius: 3px 3px 3px 3px;
-             border: 5px solid #e7e7e7;
-             -webkit-transition: all 2s ease;
-             -moz-transition: all 2s ease;
-             -ms-transition: all 2s ease;
-             -o-transition: all 2s ease;
-             transition: all 2s ease;
+        -moz-border-radius: 3px 3px 3px 3px;
+        -webkit-border-radius: 3px 3px 3px 3px;
+        border: 5px solid #e7e7e7;
+        -webkit-transition: all 2s ease;
+        -moz-transition: all 2s ease;
+        -ms-transition: all 2s ease;
+	-o-transition: all 2s ease;
+        transition: all 2s ease;
 } 
 
 .about-title {
@@ -122,20 +122,20 @@ table {
 	padding: 5px;
 	text-align: right;
 	border-radius: 21px 21px 21px 21px;
-            -moz-border-radius: 21px 21px 21px 21px;
-            -webkit-border-radius: 21px 21px 21px 21px;
-            border: 0px solid #000000;
+        -moz-border-radius: 21px 21px 21px 21px;
+        -webkit-border-radius: 21px 21px 21px 21px;
+        border: 0px solid #000000;
 }
 
 .more a:hover {
 	background: rgba(255,255,255,1);
-             background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-             background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
-             background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-             background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-             background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-             background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-             filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+        background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+        background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+        background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+        background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+        background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+        background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
 }
 
 .menu a:hover .submenu{
